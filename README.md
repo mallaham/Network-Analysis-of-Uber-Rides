@@ -1,5 +1,5 @@
 
-# Analyzing & Visualzing Uber Rides
+# Analyzing & Visualizing Uber Rides
 
 In this repository you will find some interesting visualization and statistics from a dataset I found on Kaggel. This dataset was uploaded by Zeeshan-ul-hassan Usmani that shows his Uber rides in 2016. 
 
